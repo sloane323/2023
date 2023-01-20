@@ -1,0 +1,14 @@
+.header{
+    display: grid;
+    grid-template-columns: 5fr 1fr ;
+    align-items: center;
+}
+
+.sidemenu {
+    display: flex;
+    position: relative;
+    color: red;
+    font-size: 2em;
+    padding-left: 20px;
+
+}

@@ -1,0 +1,18 @@
+.side {
+    position: fixed;
+    top: 0;
+    right: 0rem;
+    width: 13em;
+    height: 100%;
+    font-size: 1rem;
+    background: black;
+    color: #c4302b;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+.sidex{
+    color: #c4302b;
+    font-size: 3em;
+    margin: 1em;
+}
